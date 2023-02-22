@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e6d8bb5.chunk.css",
+    "main.js": "/static/js/main.4b9cc3d2.chunk.js",
+    "main.js.map": "/static/js/main.4b9cc3d2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86473120.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86473120.js.map",
+    "static/css/2.ab75b8d7.chunk.css": "/static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.4feda563.chunk.js": "/static/js/2.4feda563.chunk.js",
+    "static/js/2.4feda563.chunk.js.map": "/static/js/2.4feda563.chunk.js.map",
+    "static/js/3.8f068a63.chunk.js": "/static/js/3.8f068a63.chunk.js",
+    "static/js/3.8f068a63.chunk.js.map": "/static/js/3.8f068a63.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ab75b8d7.chunk.css.map": "/static/css/2.ab75b8d7.chunk.css.map",
+    "static/css/main.5e6d8bb5.chunk.css.map": "/static/css/main.5e6d8bb5.chunk.css.map",
+    "static/js/2.4feda563.chunk.js.LICENSE.txt": "/static/js/2.4feda563.chunk.js.LICENSE.txt",
+    "static/media/angle-right.abc4a8b1.svg": "/static/media/angle-right.abc4a8b1.svg",
+    "static/media/image1.2b5cb4e1.png": "/static/media/image1.2b5cb4e1.png",
+    "static/media/image2.1f5577ac.png": "/static/media/image2.1f5577ac.png",
+    "static/media/image3.63249841.png": "/static/media/image3.63249841.png",
+    "static/media/next-icon.e334e2f4.svg": "/static/media/next-icon.e334e2f4.svg",
+    "static/media/prev-icon.6c6b4637.svg": "/static/media/prev-icon.6c6b4637.svg",
+    "static/media/print.9be6b428.jpg": "/static/media/print.9be6b428.jpg",
+    "static/media/step1.5fbf5e94.svg": "/static/media/step1.5fbf5e94.svg",
+    "static/media/step2.8bdbfde8.svg": "/static/media/step2.8bdbfde8.svg",
+    "static/media/step3.14add419.png": "/static/media/step3.14add419.png",
+    "static/media/video-image1.f2e757ad.png": "/static/media/video-image1.f2e757ad.png",
+    "static/media/video-image2.536cf469.png": "/static/media/video-image2.536cf469.png",
+    "static/media/video-image3.b3ba8d7c.png": "/static/media/video-image3.b3ba8d7c.png",
+    "static/media/video-step2.e1b53ddd.png": "/static/media/video-step2.e1b53ddd.png",
+    "static/media/video-step3.c39d20d8.png": "/static/media/video-step3.c39d20d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86473120.js",
+    "static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.4feda563.chunk.js",
+    "static/css/main.5e6d8bb5.chunk.css",
+    "static/js/main.4b9cc3d2.chunk.js"
+  ]
+}
